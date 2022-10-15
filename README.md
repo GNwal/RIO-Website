@@ -3,9 +3,9 @@ This is a basic website made in HTML/CSS and JavaScript, currently it is not ful
 
 # Project Preview
 
-[preview 01](https://imgur.com/LOiSMJ9)
+[preview 01](https://imgur.com/kGtdcjl)
 
-[preview 02](https://imgur.com/kGtdcjl)
+[preview 02](https://imgur.com/LOiSMJ9)
 
 ------------------------------------------------------
 by **<a href="https://github.com/GNwal">GN</a>** and **<a href="https://github.com/Sousateew">Sousateew</a>** for **<a href="https://">RIO Roleplay</a>**
